@@ -9,8 +9,8 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 # Telegram API credentials (Replace these with your own)
-API_ID = 22195720  # আপনার API ID দিন
-API_HASH = '73f315374ff838005810aa638abbf2c3'  # আপনার API Hash দিন
+API_ID = 21798512  # আপনার API ID দিন
+API_HASH = '73a2ab9e5670d574d3e63ba603e3742b'  # আপনার API Hash দিন
 
 # Voxel Verse Bot Information
 BOT_USERNAME = "voxel_verse_bot"  # Bot username
